@@ -83,11 +83,6 @@ public class MainController {
 
   }
 
-//  @DeleteMapping("/chartas/{id}/")
-//  public void deleteRedirect(HttpServletResponse response) throws IOException {
-//    response.sendRedirect("/chartas/{id}/");
-//  }
-
 }
 
 
